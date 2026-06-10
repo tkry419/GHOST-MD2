@@ -1,2 +1,2 @@
-# GHOST-MD2
+# GHOST-MD
 Simple JavaScript WhatsApp bot by Ghost 
