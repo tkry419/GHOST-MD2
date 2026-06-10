@@ -24,7 +24,7 @@ let dec = `*👋 Hello ${pushname}*
 > *𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢* 
 
 *⚡Owner name -: GHOST*
-*⚡Number* -: 2349129557631
+*⚡Number* -: +2349129557631
 
  ⚡️◦ https://whatsapp.com/channel/0029Vb86btmI1rci3S1NUA0G
 
